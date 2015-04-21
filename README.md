@@ -1,7 +1,7 @@
 
 GalactiCraft Configs for a variety of mods.
 
-Currently includes/;
+Currently includes:
 
 * Artifice
 * Cave Biomes
